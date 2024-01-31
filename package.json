@@ -9,10 +9,15 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.21.0",
     "expo": "~50.0.4",
     "expo-status-bar": "~1.11.1",
+    "nativewind": "^2.0.11",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-heroicons": "^4.0.0",
+    "react-native-progress": "^5.0.1",
+    "tailwindcss": "^3.3.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
