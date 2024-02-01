@@ -1,5 +1,4 @@
-export const apiKey =
-  "place your api key here from : https://www.weatherapi.com";
+export const apiKey = "Please Use your own API KEY here !!";
 
 export const weatherImages = {
   "Partly cloudy": require("../assets/images/partlycloudy.png"),
